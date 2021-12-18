@@ -1,7 +1,7 @@
 # Android : 
 
 ## [NotesApp](https://github.com/ShikharSahu/NotesApp)
-### Features
+### Features:
 - Create, read, update and delete notes!
 - Store the notes locally
 - Give your notes priority
@@ -13,7 +13,7 @@
 - Light and Dark Theme!
 
 ## [AdviceApp](https://github.com/ShikharSahu/AdviceApp)
-### Feature:
+### Features:
 - **Tinder-like** Swipe Layout
 - Uses the **Volley** library to request advices from advice API
 - Swipe right to archive an advice
@@ -27,7 +27,7 @@
 ## [CurrencyConverter](https://github.com/ShikharSahu/CurrencyConverter)
 a simple currency converter based on MVVM architecture
 =======
-### Uses:
+### Used:
 - MVVM architecture
 - View binding
 - Kotlin Coroutines
@@ -53,13 +53,13 @@ Authentication service and much more.
 - Material UI Components
 
 ## [TicTacToe](https://github.com/ShikharSahu/TicTacToe)
-###Features:
+### Features:
 - both single player and dual player gameplay
 - light weight apllication
 - works offline
 
 ## [TextBook](https://github.com/ShikharSahu/TextBook)
-###Features:
+### Features:
 - uses MVVM architecture
 - uses Firebase Firestore
 - uses material design components
@@ -75,15 +75,14 @@ Authentication service and much more.
 - Manually select a date from user friendly GUI and set that date's image as the desktop wallpaper.
 - Saves the images in local user drive for future use.
 
-#Python
+# Python
 ## [HuffmanCoder](https://github.com/ShikharSahu/HuffmanCoder)
-About
+### About
 - A simple package that allows you to perform Huffman coding on user input strings.
-- [On Pypi](pypi.org/project/huffmancoder/)
+- Available on [Pypi](pypi.org/project/huffmancoder/)
 
 # Java
 ## [Turing Machine Simulator](https://github.com/ShikharSahu/TuringMachineSimulation)
-Turing Machine Simulator
-Introduction:
+### Introduction:
 - This is the simulation of Turing Machine using plain java and no extra frameworks. 
 - It takes the input from a files mentioned in the code and processes the result as if it were a Turing Machine.
